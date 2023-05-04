@@ -1,4 +1,4 @@
-/*1111111111111111111111111111111111111*********************************************************************/
+//Pleer_1
 var audio1 = document.getElementById("myAudio1");
 var playButton1 = document.getElementById("playButton1");
 var pauseButton1 = document.getElementById("pauseButton1");
@@ -23,7 +23,7 @@ timeSlider1.addEventListener("input", function() {
 audio1.addEventListener("timeupdate", function() {
   timeSlider1.value = audio1.currentTime / audio1.duration;
 });
-/*222222222222222222*******************************************************************************/
+//Pleer_2
 var audio2 = document.getElementById("myAudio2");
 var playButton2 = document.getElementById("playButton2");
 var pauseButton2 = document.getElementById("pauseButton2");
@@ -48,7 +48,7 @@ timeSlider2.addEventListener("input", function() {
 audio2.addEventListener("timeupdate", function() {
   timeSlider2.value = audio2.currentTime / audio2.duration;
 });
-/*3333333333333333333333***************************************************************************/
+//Pleer_3
 var audio3 = document.getElementById("myAudio3");
 var playButton3 = document.getElementById("playButton3");
 var pauseButton3 = document.getElementById("pauseButton3");
@@ -73,7 +73,7 @@ timeSlider3.addEventListener("input", function() {
 audio3.addEventListener("timeupdate", function() {
   timeSlider3.value = audio3.currentTime / audio3.duration;
 });
-/*444444444444444444444444**********************************************************************/
+//Pleer_4
 var audio4 = document.getElementById("myAudio4");
 var playButton4 = document.getElementById("playButton4");
 var pauseButton4 = document.getElementById("pauseButton4");
@@ -98,7 +98,7 @@ timeSlider4.addEventListener("input", function() {
 audio4.addEventListener("timeupdate", function() {
   timeSlider4.value = audio4.currentTime / audio4.duration;
 });
-/*55555555555555555555555*************************************************************************/
+//Pleer_5
 var audio5 = document.getElementById("myAudio5");
 var playButton5 = document.getElementById("playButton5");
 var pauseButton5 = document.getElementById("pauseButton5");
@@ -123,7 +123,7 @@ timeSlider5.addEventListener("input", function() {
 audio5.addEventListener("timeupdate", function() {
   timeSlider5.value = audio5.currentTime / audio5.duration;
 });
-/*66666666666666666666*****************************************************************/
+//Pleer_6
 var audio6 = document.getElementById("myAudio6");
 var playButton6 = document.getElementById("playButton6");
 var pauseButton6 = document.getElementById("pauseButton6");
@@ -148,7 +148,7 @@ timeSlider6.addEventListener("input", function() {
 audio6.addEventListener("timeupdate", function() {
   timeSlider6.value = audio6.currentTime / audio6.duration;
 });
-/*777777777777777777777777777777***********************************************************/
+//Pleer_7
 var audio7 = document.getElementById("myAudio7");
 var playButton7 = document.getElementById("playButton7");
 var pauseButton7 = document.getElementById("pauseButton7");
@@ -173,7 +173,7 @@ timeSlider7.addEventListener("input", function() {
 audio7.addEventListener("timeupdate", function() {
   timeSlider7.value = audio7.currentTime / audio7.duration;
 });
-/*88888888888888888888888888888888***********************************************************/
+//Pleer_8
 var audio8 = document.getElementById("myAudio8");
 var playButton8 = document.getElementById("playButton8");
 var pauseButton8 = document.getElementById("pauseButton8");
@@ -198,7 +198,7 @@ timeSlider8.addEventListener("input", function() {
 audio8.addEventListener("timeupdate", function() {
   timeSlider8.value = audio8.currentTime / audio8.duration;
 });
-/*9999999999999999999999999999999*************************************************************/
+//Pleer_9
 var audio9 = document.getElementById("myAudio9");
 var playButton9 = document.getElementById("playButton9");
 var pauseButton9 = document.getElementById("pauseButton9");
@@ -223,7 +223,7 @@ timeSlider9.addEventListener("input", function() {
 audio9.addEventListener("timeupdate", function() {
   timeSlider9.value = audio9.currentTime / audio9.duration;
 });
-/************************************************************************************************/
+//Pleer_10
 var audio = document.getElementById("myAudio");
 var playButton = document.getElementById("playButton");
 var pauseButton = document.getElementById("pauseButton");

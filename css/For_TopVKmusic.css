@@ -5,7 +5,6 @@
 body {
   position: absolute;
   width: 100%;
-  background-color: black;
   margin: 0px;
   padding: 0px;
 }
@@ -130,6 +129,10 @@ img {
   display: inline;
   text-align: center;
   width: 130px;
+}
+
+.timeSlider {
+  width: 129px;
 }
 
 button {
